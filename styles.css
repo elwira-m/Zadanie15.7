@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box; 
+  font-size: 30px;
+}
+
+.stopwatch {
+	padding: 30px;
+	margin: 70px;
+}
+.controls {
+	padding: 50px;
+}
+
+#stop, #reset {
+	margin-left: 10px;
+}
+
+.content {
+	margin: 0 auto;
+	background: #c6e098;
+}
